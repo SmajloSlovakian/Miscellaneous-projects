@@ -1,0 +1,22 @@
+id;názov;autor;cena;isbn;počet;rok;jazyk
+123456;äúpäú§;matoto;100000000 €;987654321;69;1969;slovenčina
+987654;chat gmt;save game;autor;äúň§ô;´´;ľéľš;13 cm
+asdkjl;peťo;autorrozprávka;äú;ščíáéžý;počet;rok;jazyk
+id;názov;autor;cena;isbn;počet;rok;jazyk
+id;názov;autor;cena;isbn;počet;rok;jazyk
+id;názov;autor;cena;isbn;počet;rok;jazyk
+id;názov;autor;cena;isbn;počet;rok;jazyk
+id;názov;autor;cena;isbn;počet;rok;jazyk
+id;názov;autor;cena;isbn;počet;rok;jazyk
+id;názov;autor;cena;isbn;počet;rok;jazyk
+id;názov;autor;cena;isbn;počet;rok;jazyk
+id;názov;autor;cena;isbn;počet;rok;jazyk
+id;názov;autor;cena;isbn;počet;rok;jazyk
+id;názov;autor;cena;isbn;počet;rok;abcd
+id;názov;autor;cena;isbn;počet;rok;jazyk
+id;názov;autor;cena;isbn;počet;rok;jazyk
+id;názov;autor;cena;isbn;počet;rok;jazyk
+id;názov;autor;cena;isbn;počet;rok;jazyk
+id;názov;autor;cena;isbn;počet;rok;abcd
+id;názov;autor;cena;isbn;počet;rok;jazyk
+id;názov;autor;cena;isbn;počet;rok;jazyk
